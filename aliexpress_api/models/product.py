@@ -11,7 +11,6 @@ class Product:
     first_level_category_name: str
     lastest_volume: int
     hot_product_commission_rate: str
-    lastest_volume: int
     original_price: str
     original_price_currency: str
     product_detail_url: str
