@@ -27,6 +27,7 @@ class Product:
     second_level_category_name: str
     shop_id: int
     shop_url: str
+    shop_name: str
     target_app_sale_price: str
     target_app_sale_price_currency: str
     target_original_price: str
